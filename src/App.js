@@ -1,10 +1,10 @@
 import React from 'react';
-import MapWithControl from './componentes/mapView';
+import MapComponent from './componentes/mapView';
 
 function App() {
   return (
     <div>
-      <MapWithControl />
+      <MapComponent />
     </div>
   );
 }
